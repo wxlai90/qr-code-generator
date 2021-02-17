@@ -1,2 +1,2 @@
-# qr-code-generator
-Qrcode generator, more for my own use
+# Quick and Easy QR Code generator
+
